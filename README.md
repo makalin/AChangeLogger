@@ -18,7 +18,7 @@ AutoChangelogger is a Python-based tool for automatically generating and updatin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/autochangelogger.git
+   git clone https://github.com/makalin/autochangelogger.git
    cd autochangelogger
    ```
 2. Install the required dependencies:
